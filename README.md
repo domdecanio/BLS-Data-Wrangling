@@ -1,2 +1,2 @@
 # BLS-Data-Wrangling
-This repository contains ...
+This file contains the data which serves as inputs to the fina_script.py python script. This folder contains.csv files which are the quarterly responses to the Bureau of Labor Statistics "Interview" survey, which is a component of the Consumer Expenditure survey. This data was drawn from the Bureau of Labor Statistics Consumer Expenditure Public Micro-Use database, and composes 80 files, which represent quarterly data from Q1 1997 to Q4 2020.
